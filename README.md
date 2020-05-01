@@ -24,7 +24,7 @@ Fasen an Ober- und Unterkante erhöhen die Ergebnisqualität. Die Fase an der Ob
 Die Nippel zum Einhängen der Lochfolie wurden nach unten hin gefast. Dadurch können auch gestapelte Versionen ohne Stützstruktur gedruckt werden
 
 
-### 2. Das Verbidungselement
+### 2. Das Verbindungselement
 <img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/stack-connector.jpg?raw=true" width=640px>
 
 Ein zusätzliches Verbindungselement liegt bei, damit die Bügel bei einer Druckschichthöhe von 0,3mm gut gestapelt werden können. Dieses Verbdindungselement kann immer direkt auf die Oberkante eines Bügels gelegt werden und das nächste Modell direkt drüber gesetzt werden. Das "Spitz-Zulaufen" erreicht an der dünnsten Stelle 0,5mm Stärke was eine durchschnittliche Breite einer einzigen 3D-Druckbahn entspricht. Damit sind die gestapelten Bügel nur durch eine Bahn miteinander verbunden. Funktioniert bei meinen Tests bisher sehr gut. Die Höhe von 1,8mm ist dem geschuldet, dass die Schräge nicht zu steil sein darf für ein Stützstruktur-freies Drucken.
